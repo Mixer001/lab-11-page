@@ -1,2 +1,4 @@
 # lab-11-page
-EI lab 11 webpage
+*Author: MR*
+---
+Repsitory containing a webpage for lab 11 of EI on PG
